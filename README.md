@@ -24,3 +24,12 @@ draft notes:
 6. Security:
    1.   All unused ports are disabled/secured
    2.   All open ports are tied to device MAC address
+
+
+Configuration
+1. Router
+   1. Secure router
+   2. VLAN set up
+   3. ACL/routing
+   4. port configuration (trunk/access)
+2. Set up individual devices
