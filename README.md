@@ -13,7 +13,7 @@ Draft notes:
 | :--- | :---: | :--- | :--- | :--- |
 | **Sales** | 10 | 192.168.10.0/24 | 255.255.255.0 | 192.168.10.1 |
 | **Marketing** | 20 | 192.168.20.0/24 | 255.255.255.0 | 192.168.20.1 |
-| **Human Resource** | 30 | 192.168.30.0/24 | 255.255.255.0 | 192.168.20.1 |
+| **Human Resource** | 30 | 192.168.30.0/24 | 255.255.255.0 | 192.168.30.1 |
 | **Accounts** | 40 | 192.168.40.0/24 | 255.255.255.0 | 192.168.40.1 |
 | **Server** | 50 | 192.168.50.0/24 | 255.255.255.0 | 192.168.50.1 |
 | **CEO's office** | 60 | 192.168.40.0/24 | 255.255.255.0 | 192.168.40.1 |
@@ -33,8 +33,10 @@ Draft notes:
       2. Set up individual devices (PC, printers)
       3. Allow employee to remote access own workstations at office? - Under discussion
       4. Firewall setup
-
-![Network topology] (github.com/kamarulx/small-business-network/blob/main/Noit-topology.png)
+   
+   8. Network Topology
+   
+   ![Network topology](Noit-topology.png)
 
 Staff documentation
    1. Procedures - system info, login, procedures
