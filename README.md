@@ -35,7 +35,7 @@ Draft notes:
       3. Allow employee to remote access own workstations at office? - Under discussion
       4. Firewall setup
 
-![VLAN Configuration Screenshot](github.com/kamarulx/small-business-network/blob/main/Noit-topology.png)
+![Network topology](github.com/kamarulx/small-business-network/blob/main/Noit-topology.png)
 
 Staff documentation
    1. Procedures - system info, login, procedures
